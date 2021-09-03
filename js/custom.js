@@ -17,6 +17,7 @@
     items: 1,
     loop: true,
     margin: 10,
+    autoplay:5000,
     nav: true
   });
 
