@@ -658,9 +658,14 @@ ul.timeline {
 }
 
 
-/* .social {
+ .social {
+   font-size: 11px;
   text-align: center;
+  display: flex;
+  position: relative;
+  
 }
+/*
 .social .fa-facebook-f {
   color: #3b5998;
   display: inline-block;
